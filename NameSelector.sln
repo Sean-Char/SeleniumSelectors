@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSelector", "NameSelector\NameSelector.csproj", "{630DC0F9-AFCC-4F8A-AD36-0C91836B6F22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdSelector", "IdSelector\IdSelector.csproj", "{ACD77467-55F3-42D2-ACE0-39BC9D5DB2D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{630DC0F9-AFCC-4F8A-AD36-0C91836B6F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{630DC0F9-AFCC-4F8A-AD36-0C91836B6F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{630DC0F9-AFCC-4F8A-AD36-0C91836B6F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD77467-55F3-42D2-ACE0-39BC9D5DB2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD77467-55F3-42D2-ACE0-39BC9D5DB2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD77467-55F3-42D2-ACE0-39BC9D5DB2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD77467-55F3-42D2-ACE0-39BC9D5DB2D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
